@@ -63,6 +63,8 @@ print(list_of_nums)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/118679883/214572044-9109736b-0ae5-4c98-a3f3-8b2dea485dad.png)
+![image](https://user-images.githubusercontent.com/118679883/214571967-1123e69e-b208-46f0-a3e9-759a47c87e62.png)
 
 
 ## Result:
